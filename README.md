@@ -12,3 +12,11 @@ I don't have real experience, i found chance make real work space.
 -Redux-persist 6.0.0
 
 # Structure project 
+
+src/
+├── View/
+│   └── FeaturedProducts.tsx
+├── Data/
+│   └── product.ts
+├── index.css
+└── main.tsx
